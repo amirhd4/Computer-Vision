@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5897bf55-84a3-4729-8918-e898eb37126a" name="Changes" comment="some changes" />
+    <list default="true" id="5897bf55-84a3-4729-8918-e898eb37126a" name="Changes" comment="read-write-displaying images" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,19 +18,6 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <excluded-from-favorite>
-      <branch-storage>
-        <map>
-          <entry type="REMOTE">
-            <value>
-              <list>
-                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
-              </list>
-            </value>
-          </entry>
-        </map>
-      </branch-storage>
-    </excluded-from-favorite>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -61,7 +48,6 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;database.data.extractors.current.export.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Amir/Desktop/test/Computer_Vision/akhavan's class vision&quot;,
@@ -103,15 +89,6 @@
       <workItem from="1738771920572" duration="1906000" />
       <workItem from="1738776716302" duration="647000" />
       <workItem from="1738777373855" duration="879000" />
-      <workItem from="1738831298001" duration="3932000" />
-      <workItem from="1738845835537" duration="4396000" />
-      <workItem from="1738873603300" duration="27000" />
-      <workItem from="1738912638260" duration="5298000" />
-      <workItem from="1738919492730" duration="3705000" />
-      <workItem from="1738929582053" duration="4546000" />
-      <workItem from="1738953483755" duration="1374000" />
-      <workItem from="1739000358260" duration="6185000" />
-      <workItem from="1739020125676" duration="665000" />
     </task>
     <task id="LOCAL-00001" summary="Some changes.">
       <option name="closed" value="true" />
@@ -129,80 +106,16 @@
       <option name="project" value="LOCAL" />
       <updated>1738778176711</updated>
     </task>
-    <task id="LOCAL-00003" summary="read-write-displaying images">
-      <option name="closed" value="true" />
-      <created>1738831429806</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1738831429806</updated>
-    </task>
-    <task id="LOCAL-00004" summary="read-write-displaying images">
-      <option name="closed" value="true" />
-      <created>1738831905078</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1738831905078</updated>
-    </task>
-    <task id="LOCAL-00005" summary="color space">
-      <option name="closed" value="true" />
-      <created>1738850228286</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1738850228286</updated>
-    </task>
-    <task id="LOCAL-00006" summary="alpha channel and drawing and annotation">
-      <option name="closed" value="true" />
-      <created>1739003379878</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1739003379878</updated>
-    </task>
-    <task id="LOCAL-00007" summary="bitwise">
-      <option name="closed" value="true" />
-      <created>1739020269345</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1739020269345</updated>
-    </task>
-    <task id="LOCAL-00008" summary="some changes">
-      <option name="closed" value="true" />
-      <created>1739020773430</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1739020773430</updated>
-    </task>
-    <option name="localTasksCounter" value="9" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Some changes." />
     <MESSAGE value="read-write-displaying images" />
-    <MESSAGE value="color space" />
-    <MESSAGE value="alpha channel and drawing and annotation" />
-    <MESSAGE value="bitwise" />
-    <MESSAGE value="fixup! read-write-displaying images" />
-    <MESSAGE value="some changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="some changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="read-write-displaying images" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Computer_Vision$main.coverage" NAME="main Coverage Results" MODIFIED="1738746980155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
