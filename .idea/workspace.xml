@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5897bf55-84a3-4729-8918-e898eb37126a" name="Changes" comment="bitwise" />
+    <list default="true" id="5897bf55-84a3-4729-8918-e898eb37126a" name="Changes" comment="some changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,7 +111,7 @@
       <workItem from="1738929582053" duration="4546000" />
       <workItem from="1738953483755" duration="1374000" />
       <workItem from="1739000358260" duration="6185000" />
-      <workItem from="1739020125676" duration="347000" />
+      <workItem from="1739020125676" duration="665000" />
     </task>
     <task id="LOCAL-00001" summary="Some changes.">
       <option name="closed" value="true" />
@@ -169,7 +169,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739020269345</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="some changes">
+      <option name="closed" value="true" />
+      <created>1739020773430</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1739020773430</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,7 +200,9 @@
     <MESSAGE value="color space" />
     <MESSAGE value="alpha channel and drawing and annotation" />
     <MESSAGE value="bitwise" />
-    <option name="LAST_COMMIT_MESSAGE" value="bitwise" />
+    <MESSAGE value="fixup! read-write-displaying images" />
+    <MESSAGE value="some changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="some changes" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Computer_Vision$main.coverage" NAME="main Coverage Results" MODIFIED="1738746980155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
