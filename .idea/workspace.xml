@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5897bf55-84a3-4729-8918-e898eb37126a" name="Changes" comment="some changes" />
+    <list default="true" id="5897bf55-84a3-4729-8918-e898eb37126a" name="Changes" comment="some changes">
+      <change beforePath="$PROJECT_DIR$/.idea/Computer_Vision.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Computer_Vision.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/greyscaling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/greyscaling.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,6 +89,7 @@
       <recent name="C:\Users\Amir\Desktop\test\Computer_Vision\akhavan's class vision" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Amir\Desktop\test\Computer-Vision" />
       <recent name="C:\Users\Amir\Desktop\test\Computer_Vision" />
       <recent name="C:\Users\Amir\Desktop\test\Computer_Vision\akhavan's class vision" />
     </key>
@@ -119,6 +125,9 @@
       <workItem from="1739000358260" duration="6185000" />
       <workItem from="1739020125676" duration="665000" />
       <workItem from="1739020804475" duration="758000" />
+      <workItem from="1739022961256" duration="97000" />
+      <workItem from="1739023476756" duration="594000" />
+      <workItem from="1739024088212" duration="460000" />
     </task>
     <task id="LOCAL-00001" summary="Some changes.">
       <option name="closed" value="true" />
