@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5897bf55-84a3-4729-8918-e898eb37126a" name="Changes" comment=" brightness and contrast">
+      <change afterPath="$PROJECT_DIR$/gamma-correction.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linear-brightness-and-contrast-adjustment.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/linear-brightness-and-contrast-adjustment.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +133,8 @@
       <workItem from="1739100333573" duration="4717000" />
       <workItem from="1739176465277" duration="2589000" />
       <workItem from="1739179084539" duration="128000" />
-      <workItem from="1739283867194" duration="1638000" />
+      <workItem from="1739283867194" duration="2164000" />
+      <workItem from="1739346318640" duration="2750000" />
     </task>
     <task id="LOCAL-00001" summary="Some changes.">
       <option name="closed" value="true" />
@@ -279,7 +280,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739179136857</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary=" brightness and contrast">
+      <option name="closed" value="true" />
+      <created>1739285762881</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1739285762881</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
