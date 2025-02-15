@@ -4,15 +4,66 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5897bf55-84a3-4729-8918-e898eb37126a" name="Changes" comment="change directories.">
-      <change afterPath="$PROJECT_DIR$/morphology.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebook/images/fingerprint.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebook/images/mri.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebook/images/neuron.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebook/images/pathology.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebook/images/sheet.jpg" afterDir="false" />
+    <list default="true" id="5897bf55-84a3-4729-8918-e898eb37126a" name="Changes" comment="morphology">
+      <change afterPath="$PROJECT_DIR$/edge_detection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/04_tehran.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/05_tehran.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/4seasons.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/Car_plate1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/Car_plate2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/Car_plate3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/Car_plate4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/Car_plate_en2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/Car_plate_en3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/OCR_english_text.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/OCR_english_text2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/OCR_english_text4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/OCR_english_text_book.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/OCR_persian.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/OCR_persian_text2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/OCR_persian_text3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/OCR_persian_text4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/Road_in_Norway.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/aerial-views-manila-05-by-bernhard-lang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/applsci-10-03359-g004a.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/barcode.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/barcode1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/barcode1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/barcode2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/blue_eyes.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/book1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/book2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/building1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/building1_temp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/building2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/cablecar.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/car_plate_en1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/cells_threshold.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/d9766td2pnzy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/edgeflower.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/face.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/face2_lms.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/face3_lms.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/face4_lms.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/face_hd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/face_lms.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/fingerprint.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/graphics.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/hand.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/jumbo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/plane.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/planes.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/plantcomplex.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/plate1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/plate2_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/plate_en2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/plate_en2_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/qrcode1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/qrcode2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/qrcode3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/statue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/images/xray1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +74,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -69,26 +121,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.morphology.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;database.data.extractors.current.export.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Amir/Desktop/test/Computer-Vision/notebook/images&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.edge_detection.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.morphology.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Amir/Desktop/test/Computer-Vision/notebook/images",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Amir\Desktop\test\Computer-Vision\notebook\images" />
@@ -102,7 +156,30 @@
       <recent name="C:\Users\Amir\Desktop\test\Computer_Vision\akhavan's class vision" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.edge_detection">
+    <configuration name="edge_detection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Computer_Vision" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/edge_detection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="morphology" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Computer_Vision" />
       <option name="ENV_FILES" value="" />
@@ -128,6 +205,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.edge_detection" />
         <item itemvalue="Python.morphology" />
       </list>
     </recent_temporary>
@@ -186,6 +264,8 @@
       <workItem from="1739539539181" duration="13000" />
       <workItem from="1739544963433" duration="1296000" />
       <workItem from="1739546279234" duration="2104000" />
+      <workItem from="1739607565142" duration="1748000" />
+      <workItem from="1739609334538" duration="1421000" />
     </task>
     <task id="LOCAL-00001" summary="Some changes.">
       <option name="closed" value="true" />
@@ -363,7 +443,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739517849802</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="morphology">
+      <option name="closed" value="true" />
+      <created>1739607701877</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1739607701877</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -396,10 +484,12 @@
     <MESSAGE value="gamma correction" />
     <MESSAGE value="mouse event" />
     <MESSAGE value="change directories." />
-    <option name="LAST_COMMIT_MESSAGE" value="change directories." />
+    <MESSAGE value="morphology" />
+    <option name="LAST_COMMIT_MESSAGE" value="morphology" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Computer_Vision$morphology.coverage" NAME="morphology Coverage Results" MODIFIED="1739548322093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Computer_Vision$morphology.coverage" NAME="morphology Coverage Results" MODIFIED="1739608708533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Computer_Vision$edge_detection.coverage" NAME="edge_detection Coverage Results" MODIFIED="1739610562218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Computer_Vision$main.coverage" NAME="main Coverage Results" MODIFIED="1739539477741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
