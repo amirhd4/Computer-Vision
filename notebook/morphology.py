@@ -2,7 +2,7 @@ import numpy as np
 import cv2 as cv
 import matplotlib.pyplot as plt
 
-original_img = cv.imread("./notebook/images/neuron.jpg", 0)
+original_img = cv.imread("images/neuron.jpg", 0)
 
 _, mask = cv.threshold(original_img, 60, 255, cv.THRESH_BINARY)
 
