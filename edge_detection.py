@@ -15,7 +15,7 @@ sobelx = cv.Sobel(image_noise_removed, cv.CV_64F, 1, 0, ksize=5)
 sobely = cv.Sobel(image_noise_removed, cv.CV_64F, 0, 1, ksize=5)
 
 # Canny Edge Detection
-canny = cv.Canny(image_noise_removed,  100, 300)
+canny = cv.Canny(image_noise_removed,  100, 200)
 
 plt.subplot(2, 2, 1), plt.imshow(image, cmap='gray')
 plt.title("Original")
