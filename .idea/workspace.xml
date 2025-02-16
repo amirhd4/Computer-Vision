@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5897bf55-84a3-4729-8918-e898eb37126a" name="Changes" comment="edge detection">
-      <change afterPath="$PROJECT_DIR$/template_matching.ipynb" afterDir="false" />
+    <list default="true" id="5897bf55-84a3-4729-8918-e898eb37126a" name="Changes" comment="Template Matching.">
+      <change afterPath="$PROJECT_DIR$/histogram.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/morphology.py" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/morphology.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template_matching.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/template_matching.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -238,7 +238,9 @@
       <workItem from="1739609334538" duration="1702000" />
       <workItem from="1739622562313" duration="4150000" />
       <workItem from="1739626752586" duration="189000" />
-      <workItem from="1739626956051" duration="4475000" />
+      <workItem from="1739626956051" duration="4914000" />
+      <workItem from="1739632312050" duration="9000" />
+      <workItem from="1739691717532" duration="5598000" />
     </task>
     <task id="LOCAL-00001" summary="Some changes.">
       <option name="closed" value="true" />
@@ -464,7 +466,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739627032702</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Template Matching.">
+      <option name="closed" value="true" />
+      <created>1739632292143</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1739632292143</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -501,7 +511,8 @@
     <MESSAGE value="some changes" />
     <MESSAGE value="Revert &quot;Edge Detection&quot;&#10;&#10;This reverts commit fa3bfa3e" />
     <MESSAGE value="edge detection" />
-    <option name="LAST_COMMIT_MESSAGE" value="edge detection" />
+    <MESSAGE value="Template Matching." />
+    <option name="LAST_COMMIT_MESSAGE" value="Template Matching." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Computer_Vision$morphology.coverage" NAME="morphology Coverage Results" MODIFIED="1739608708533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
