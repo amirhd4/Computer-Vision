@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5897bf55-84a3-4729-8918-e898eb37126a" name="Changes" comment="Template Matching.">
-      <change afterPath="$PROJECT_DIR$/histogram.ipynb" afterDir="false" />
+    <list default="true" id="5897bf55-84a3-4729-8918-e898eb37126a" name="Changes" comment="Image Histogram">
+      <change afterPath="$PROJECT_DIR$/feature-matching.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template_matching.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/template_matching.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/histogram.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/histogram.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,10 +69,12 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Python.amir.executor&quot;: &quot;Run&quot;,
     &quot;Python.edge_detection (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.edge_detection.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;Python.morphology.executor&quot;: &quot;Run&quot;,
+    &quot;Python.v2rayconfig.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
@@ -102,7 +104,30 @@
       <recent name="C:\Users\Amir\Desktop\test\Computer_Vision\akhavan's class vision" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.edge_detection">
+  <component name="RunManager" selected="Python.amir">
+    <configuration name="amir" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Computer_Vision" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amir.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="edge_detection (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Computer_Vision" />
       <option name="ENV_FILES" value="" />
@@ -172,8 +197,33 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="v2rayconfig" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Computer_Vision" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/v2rayconfig.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.amir" />
+        <item itemvalue="Python.v2rayconfig" />
         <item itemvalue="Python.edge_detection" />
         <item itemvalue="Python.edge_detection (1)" />
         <item itemvalue="Python.morphology" />
@@ -240,7 +290,17 @@
       <workItem from="1739626752586" duration="189000" />
       <workItem from="1739626956051" duration="4914000" />
       <workItem from="1739632312050" duration="9000" />
-      <workItem from="1739691717532" duration="5598000" />
+      <workItem from="1739691717532" duration="5761000" />
+      <workItem from="1739772537677" duration="731000" />
+      <workItem from="1739773461695" duration="238000" />
+      <workItem from="1739779306836" duration="1674000" />
+      <workItem from="1739781115363" duration="259000" />
+      <workItem from="1739781534194" duration="296000" />
+      <workItem from="1739782120039" duration="2070000" />
+      <workItem from="1739817995999" duration="88000" />
+      <workItem from="1739818091709" duration="284000" />
+      <workItem from="1739818442698" duration="726000" />
+      <workItem from="1739820692891" duration="2227000" />
     </task>
     <task id="LOCAL-00001" summary="Some changes.">
       <option name="closed" value="true" />
@@ -474,7 +534,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739632292143</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Image Histogram">
+      <option name="closed" value="true" />
+      <created>1739697500537</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1739697500537</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -512,12 +580,15 @@
     <MESSAGE value="Revert &quot;Edge Detection&quot;&#10;&#10;This reverts commit fa3bfa3e" />
     <MESSAGE value="edge detection" />
     <MESSAGE value="Template Matching." />
-    <option name="LAST_COMMIT_MESSAGE" value="Template Matching." />
+    <MESSAGE value="Image Histogram" />
+    <option name="LAST_COMMIT_MESSAGE" value="Image Histogram" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Computer_Vision$morphology.coverage" NAME="morphology Coverage Results" MODIFIED="1739608708533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Computer_Vision$v2rayconfig.coverage" NAME="v2rayconfig Coverage Results" MODIFIED="1739818300053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Computer_Vision$edge_detection.coverage" NAME="edge_detection Coverage Results" MODIFIED="1739626995268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Computer_Vision$main.coverage" NAME="main Coverage Results" MODIFIED="1739539477741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Computer_Vision$edge_detection__1_.coverage" NAME="edge_detection (1) Coverage Results" MODIFIED="1739626708292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Computer_Vision$amir.coverage" NAME="amir Coverage Results" MODIFIED="1739818346470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
