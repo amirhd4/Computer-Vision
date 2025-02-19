@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5897bf55-84a3-4729-8918-e898eb37126a" name="Changes" comment="Video cam" />
+    <list default="true" id="5897bf55-84a3-4729-8918-e898eb37126a" name="Changes" comment="Video cam">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/video-cam.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/video-cam.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -297,7 +300,9 @@
       <workItem from="1739818091709" duration="284000" />
       <workItem from="1739818442698" duration="726000" />
       <workItem from="1739820692891" duration="2227000" />
-      <workItem from="1739873695319" duration="3858000" />
+      <workItem from="1739873695319" duration="4234000" />
+      <workItem from="1739886172160" duration="4000" />
+      <workItem from="1739886607230" duration="75000" />
     </task>
     <task id="LOCAL-00001" summary="Some changes.">
       <option name="closed" value="true" />
@@ -555,7 +560,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739877750639</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Video cam">
+      <option name="closed" value="true" />
+      <created>1739878125013</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1739878125013</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
