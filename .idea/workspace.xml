@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5897bf55-84a3-4729-8918-e898eb37126a" name="Changes" comment="Video cam - Face detection">
-      <change afterPath="$PROJECT_DIR$/qr-detector.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5897bf55-84a3-4729-8918-e898eb37126a" name="Changes" comment="QRcode - Barcode" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -310,6 +307,7 @@
       <workItem from="1740038729235" duration="1189000" />
       <workItem from="1740040639464" duration="4697000" />
       <workItem from="1740045384382" duration="617000" />
+      <workItem from="1740046233952" duration="324000" />
     </task>
     <task id="LOCAL-00001" summary="Some changes.">
       <option name="closed" value="true" />
@@ -599,7 +597,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740041124598</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="QRcode - Barcode">
+      <option name="closed" value="true" />
+      <created>1740046556246</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1740046556246</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -641,7 +647,8 @@
     <MESSAGE value="Features Matchings" />
     <MESSAGE value="Video cam" />
     <MESSAGE value="Video cam - Face detection" />
-    <option name="LAST_COMMIT_MESSAGE" value="Video cam - Face detection" />
+    <MESSAGE value="QRcode - Barcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="QRcode - Barcode" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Computer_Vision$morphology.coverage" NAME="morphology Coverage Results" MODIFIED="1739608708533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
