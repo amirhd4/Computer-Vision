@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5897bf55-84a3-4729-8918-e898eb37126a" name="Changes" comment="Video cam">
+    <list default="true" id="5897bf55-84a3-4729-8918-e898eb37126a" name="Changes" comment="Video cam - Face detection">
+      <change afterPath="$PROJECT_DIR$/face-detector.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hand-gesture.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/video-cam.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/video-cam.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -303,6 +304,12 @@
       <workItem from="1739873695319" duration="4234000" />
       <workItem from="1739886172160" duration="4000" />
       <workItem from="1739886607230" duration="75000" />
+      <workItem from="1739947840633" duration="4533000" />
+      <workItem from="1739952578850" duration="397000" />
+      <workItem from="1739953300443" duration="61000" />
+      <workItem from="1739953369946" duration="2113000" />
+      <workItem from="1740038729235" duration="1189000" />
+      <workItem from="1740040639464" duration="307000" />
     </task>
     <task id="LOCAL-00001" summary="Some changes.">
       <option name="closed" value="true" />
@@ -568,7 +575,23 @@
       <option name="project" value="LOCAL" />
       <updated>1739878125013</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Video cam">
+      <option name="closed" value="true" />
+      <created>1739947877748</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1739947877748</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Video cam - Face detection">
+      <option name="closed" value="true" />
+      <created>1739951997421</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1739951997421</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -609,7 +632,8 @@
     <MESSAGE value="Image Histogram" />
     <MESSAGE value="Features Matchings" />
     <MESSAGE value="Video cam" />
-    <option name="LAST_COMMIT_MESSAGE" value="Video cam" />
+    <MESSAGE value="Video cam - Face detection" />
+    <option name="LAST_COMMIT_MESSAGE" value="Video cam - Face detection" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Computer_Vision$morphology.coverage" NAME="morphology Coverage Results" MODIFIED="1739608708533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
