@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5897bf55-84a3-4729-8918-e898eb37126a" name="Changes" comment="Video cam - Face detection">
-      <change afterPath="$PROJECT_DIR$/face-detector.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hand-gesture.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qr-detector.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -309,7 +308,8 @@
       <workItem from="1739953300443" duration="61000" />
       <workItem from="1739953369946" duration="2113000" />
       <workItem from="1740038729235" duration="1189000" />
-      <workItem from="1740040639464" duration="307000" />
+      <workItem from="1740040639464" duration="4697000" />
+      <workItem from="1740045384382" duration="617000" />
     </task>
     <task id="LOCAL-00001" summary="Some changes.">
       <option name="closed" value="true" />
@@ -591,7 +591,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739951997421</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Video cam - Face detection">
+      <option name="closed" value="true" />
+      <created>1740041124598</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1740041124598</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
