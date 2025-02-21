@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5897bf55-84a3-4729-8918-e898eb37126a" name="Changes" comment="QRcode - Barcode">
-      <change afterPath="$PROJECT_DIR$/moving-objects-detection.ipynb" afterDir="false" />
+    <list default="true" id="5897bf55-84a3-4729-8918-e898eb37126a" name="Changes" comment="detection-objects on videos">
+      <change afterPath="$PROJECT_DIR$/car-plate-detection.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/amir-qrcode.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/face-detector.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/face-detector.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hand-gesture.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/hand-gesture.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/qr-detector.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/qr-detector.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/video-cam-face_detection.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/video-cam-face_detection.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moving-objects-detection.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/moving-objects-detection.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -317,7 +313,9 @@
       <workItem from="1740045384382" duration="617000" />
       <workItem from="1740046233952" duration="374000" />
       <workItem from="1740059756072" duration="7670000" />
-      <workItem from="1740127807686" duration="5536000" />
+      <workItem from="1740127807686" duration="7054000" />
+      <workItem from="1740135354311" duration="258000" />
+      <workItem from="1740153832342" duration="1875000" />
     </task>
     <task id="LOCAL-00001" summary="Some changes.">
       <option name="closed" value="true" />
@@ -631,7 +629,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740067758023</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="detection-objects on videos">
+      <option name="closed" value="true" />
+      <created>1740133959287</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1740133959288</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -649,7 +655,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="read-write-displaying images" />
     <MESSAGE value="color space" />
     <MESSAGE value="alpha channel and drawing and annotation" />
     <MESSAGE value="bitwise" />
@@ -674,7 +679,8 @@
     <MESSAGE value="Video cam - Face detection" />
     <MESSAGE value="QRcode - Barcode(Detection and create)" />
     <MESSAGE value="QRcode - Barcode(Detection and create)" />
-    <option name="LAST_COMMIT_MESSAGE" value="QRcode - Barcode(Detection and create)" />
+    <MESSAGE value="detection-objects on videos" />
+    <option name="LAST_COMMIT_MESSAGE" value="detection-objects on videos" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Computer_Vision$morphology.coverage" NAME="morphology Coverage Results" MODIFIED="1739608708533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
