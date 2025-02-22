@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5897bf55-84a3-4729-8918-e898eb37126a" name="Changes" comment="detection-objects on videos">
-      <change afterPath="$PROJECT_DIR$/car-plate-detection.ipynb" afterDir="false" />
+    <list default="true" id="5897bf55-84a3-4729-8918-e898eb37126a" name="Changes" comment="Car Plate Detection">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moving-objects-detection.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/moving-objects-detection.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/car-plate-detection.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/car-plate-detection.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -315,7 +314,10 @@
       <workItem from="1740059756072" duration="7670000" />
       <workItem from="1740127807686" duration="7054000" />
       <workItem from="1740135354311" duration="258000" />
-      <workItem from="1740153832342" duration="1875000" />
+      <workItem from="1740153832342" duration="2192000" />
+      <workItem from="1740209965001" duration="6686000" />
+      <workItem from="1740216774286" duration="324000" />
+      <workItem from="1740217111974" duration="755000" />
     </task>
     <task id="LOCAL-00001" summary="Some changes.">
       <option name="closed" value="true" />
@@ -637,7 +639,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740133959288</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Car Plate Detection">
+      <option name="closed" value="true" />
+      <created>1740156009161</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1740156009161</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -655,7 +665,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="color space" />
     <MESSAGE value="alpha channel and drawing and annotation" />
     <MESSAGE value="bitwise" />
     <MESSAGE value="fixup! read-write-displaying images" />
@@ -680,7 +689,8 @@
     <MESSAGE value="QRcode - Barcode(Detection and create)" />
     <MESSAGE value="QRcode - Barcode(Detection and create)" />
     <MESSAGE value="detection-objects on videos" />
-    <option name="LAST_COMMIT_MESSAGE" value="detection-objects on videos" />
+    <MESSAGE value="Car Plate Detection" />
+    <option name="LAST_COMMIT_MESSAGE" value="Car Plate Detection" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Computer_Vision$morphology.coverage" NAME="morphology Coverage Results" MODIFIED="1739608708533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
