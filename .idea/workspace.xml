@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5897bf55-84a3-4729-8918-e898eb37126a" name="Changes" comment="Car Plate Detection">
+    <list default="true" id="5897bf55-84a3-4729-8918-e898eb37126a" name="Changes" comment="Car Plate Detection - convert to text">
+      <change afterPath="$PROJECT_DIR$/pytesseract-ocr.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-plate-detection.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/car-plate-detection.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/car-plate-detection.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/car-plate-detection.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -318,6 +319,12 @@
       <workItem from="1740209965001" duration="6686000" />
       <workItem from="1740216774286" duration="324000" />
       <workItem from="1740217111974" duration="755000" />
+      <workItem from="1740217880641" duration="31000" />
+      <workItem from="1740295675669" duration="1765000" />
+      <workItem from="1740381466897" duration="1656000" />
+      <workItem from="1740383761591" duration="170000" />
+      <workItem from="1740383942042" duration="181000" />
+      <workItem from="1740384131700" duration="8043000" />
     </task>
     <task id="LOCAL-00001" summary="Some changes.">
       <option name="closed" value="true" />
@@ -647,7 +654,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740156009161</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Car Plate Detection - convert to text">
+      <option name="closed" value="true" />
+      <created>1740217894743</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1740217894743</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -665,7 +680,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="alpha channel and drawing and annotation" />
     <MESSAGE value="bitwise" />
     <MESSAGE value="fixup! read-write-displaying images" />
     <MESSAGE value="Revert &quot;bitwise&quot;&#10;&#10;This reverts commit 19dc600c" />
@@ -690,7 +704,8 @@
     <MESSAGE value="QRcode - Barcode(Detection and create)" />
     <MESSAGE value="detection-objects on videos" />
     <MESSAGE value="Car Plate Detection" />
-    <option name="LAST_COMMIT_MESSAGE" value="Car Plate Detection" />
+    <MESSAGE value="Car Plate Detection - convert to text" />
+    <option name="LAST_COMMIT_MESSAGE" value="Car Plate Detection - convert to text" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Computer_Vision$morphology.coverage" NAME="morphology Coverage Results" MODIFIED="1739608708533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
