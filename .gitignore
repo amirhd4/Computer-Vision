@@ -2,3 +2,4 @@ class.vision-master/
 .idea/
 /deep-learning/datasets/flower_photos/
 /deep-learning/models/efficientnetv2-xl-21k/
+deep-learning/models/yolov3.pt
