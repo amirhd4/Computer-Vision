@@ -1,0 +1,5 @@
+train: C:/Users/Amir/Desktop/test/Computer-Vision/deep-learning/datasets/traffic-signs-yolo/images/train/
+val: C:/Users/Amir/Desktop/test/Computer-Vision/deep-learning/datasets/traffic-signs-yolo/images/val/
+
+nc: 4
+names: ['inhibitory', 'danger', 'mandatory', 'other']
