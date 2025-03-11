@@ -3,3 +3,5 @@ class.vision-master/
 /deep-learning/datasets/flower_photos/
 /deep-learning/models/efficientnetv2-xl-21k/
 deep-learning/models/yolov3.pt
+.gitignore
+deep-learning/models/yolov3-coco/yolov3.weights
