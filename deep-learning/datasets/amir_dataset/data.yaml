@@ -1,0 +1,12 @@
+train: C:/Users/Amir/Desktop/test/Computer-Vision/deep-learning/datasets/amir_dataset/train/images
+val: C:/Users/Amir/Desktop/test/Computer-Vision/deep-learning/datasets/amir_dataset/valid/images
+
+nc: 3
+names: ['Head', 'One', 'Two']
+
+roboflow:
+  workspace: pythonai-egj7f
+  project: my-first-project-tx2bi
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/pythonai-egj7f/my-first-project-tx2bi/dataset/1
