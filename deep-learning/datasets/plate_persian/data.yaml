@@ -1,0 +1,14 @@
+train: C:\Users\Amir\Desktop\test\Computer-Vision\deep-learning\datasets\plate_persian\train\images
+val: C:\Users\Amir\Desktop\test\Computer-Vision\deep-learning\datasets\plate_persian\valid\images
+test: C:\Users\Amir\Desktop\test\Computer-Vision\deep-learning\datasets\plate_persian\test\images
+
+nc: 1
+names: ['plate']
+#names: ['car', 'plate', 'vehicle plate']
+
+roboflow:
+  workspace: pythonai-egj7f
+  project: my-first-project-gwnyb
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/pythonai-egj7f/my-first-project-gwnyb/dataset/1
