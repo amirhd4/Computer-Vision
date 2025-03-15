@@ -5,10 +5,10 @@ test: C:\Users\Amir\Desktop\test\Computer-Vision\deep-learning\datasets\plate_pe
 nc: 1
 names: ['plate']
 #names: ['car', 'plate', 'vehicle plate']
-
-roboflow:
-  workspace: pythonai-egj7f
-  project: my-first-project-gwnyb
-  version: 1
-  license: CC BY 4.0
-  url: https://universe.roboflow.com/pythonai-egj7f/my-first-project-gwnyb/dataset/1
+#
+#roboflow:
+#  workspace: pythonai-egj7f
+#  project: my-first-project-gwnyb
+#  version: 1
+#  license: CC BY 4.0
+#  url: https://universe.roboflow.com/pythonai-egj7f/my-first-project-gwnyb/dataset/1
